@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #99ffff;
 }
 
 // Specify the color of the selection
@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkerGray;
 
   @include mobile {
     text-align: center;
@@ -166,7 +166,7 @@ img {
 .site-avatar {
   float: left;
   width: 70px;
-  height: 70px;
+  height: 90px;
   margin-right: 15px;
 
   @include mobile {
