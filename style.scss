@@ -141,6 +141,12 @@ th {
     color: white;
 }
 
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
