@@ -201,9 +201,9 @@ th, td {
 }
 
 .site-avatar {
-  float: left;
-  width: 70px;
-  height: 90px;
+  float: middle;
+  width: 100px;
+  height: 130px;
   margin-right: 15px;
 
   @include mobile {
