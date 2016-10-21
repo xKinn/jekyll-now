@@ -203,8 +203,8 @@ th, td {
 .site-avatar {
   float: left;
   width: 70px;
-  height: 90px;
-  margin-right: 5px;
+  height: 70px;
+  margin-right: 15px;
 
   @include mobile {
     float: none;
@@ -218,7 +218,7 @@ th, td {
 }
 
 .site-info {
-  float: middle;
+  float: left;
 
   @include mobile {
     float: none;
@@ -228,7 +228,7 @@ th, td {
 }
 
 .site-name {
-  margin: 5px 0 100px 0;
+  margin: 0;
   color: #99ffff;
   cursor: pointer;
   font-family: $helveticaNeue;
