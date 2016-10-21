@@ -218,7 +218,7 @@ th, td {
 }
 
 .site-info {
-  float: left;
+  float: middle;
 
   @include mobile {
     float: none;
