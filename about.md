@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, Welcome to the about section of my blog!
 
 ### More Information
+Welcome, I'm xKinn and I'm currently running this blog for a school project, Still trying even when the project's over!
 
-A place to include any other types of information that you'd like to include about yourself.
+### Thanks for coming
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Bye!
