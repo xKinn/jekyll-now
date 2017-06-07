@@ -70,7 +70,7 @@ section.intro{
   50%{fill: #000;}
 }*/
 body {
-  background-colour: #3b3f47;
+  background-colour: #2c2e33;
   -webkit-background-size: 100% auto;
   background-size: 100% auto;
   color: #2c7af7;
@@ -274,7 +274,7 @@ html {
 }
 
 body {
-	background-colour: #3b3f47;
+	background-colour: #2c2e33;
   font: 18px/1.4 $helvetica;
   color: #e6ffff;
 }
@@ -449,7 +449,7 @@ th, td {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #296cf2;
+  border-left: 5px solid #296cf2;
   background-colour: $lightGray;
 	
   @include mobile {
