@@ -374,7 +374,7 @@ table {
 table, th, td {
     border: 2px solid #296cf2;
 }
-p.outset {border-style: outset;}
+
 table {
     width: 100%;
 }
@@ -449,8 +449,9 @@ th, td {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $darkerGray;
-
+  border-bottom: 1px solid #296cf2;
+  background-colour: $lightgray;
+	
   @include mobile {
     text-align: center;
   }
