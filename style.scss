@@ -34,7 +34,14 @@ svg{
     // svg center text.
     // centar text svg.
     text-anchor: middle;
-  }
+	}
+#main {
+    margin-top: 150px;
+    padding: 2.5em;
+    background: #2c2e33;
+    border-radius: 25px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
   #alpha{
     fill: #2c7af7;
     //animation: alpha 10s ease infinite;
