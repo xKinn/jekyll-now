@@ -33,7 +33,7 @@ svg{
   text{
     // svg center text.
     // centar text svg.
-    text-anchor: right;
+    text-anchor: middle;
   }
   #alpha{
     fill: $color-alpha;
@@ -73,7 +73,7 @@ body {
   background: #02021a url("https://raw.githubusercontent.com/balajmarius/hamburger-animation/master/assets/img/bg.jpg") no-repeat 0 0;
   -webkit-background-size: 100% auto;
   background-size: 100% auto;
-  color: #fff;
+  color: #2c7af7;
   font-family: Helvetica Neue, Helvetica, Open sans, Arial, sans-serif;
   font-weight:lighter;
   letter-spacing:1px;
