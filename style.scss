@@ -288,7 +288,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #EFEFEF;
+  color: #296cf2;
   font-weight: bold;
 
   line-height: 1.7;
@@ -317,7 +317,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #99ffff;
+  color: #296cf2;
 }
 
 p {
@@ -325,11 +325,11 @@ p {
 }
 
 a {
-  color: #00e6e6;
+  color: #296cf2;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #00e6e6;
+    color: #296cf2;
   }
 }
 
@@ -372,9 +372,9 @@ table {
 }
 
 table, th, td {
-    border: 2px solid black;
+    border: 2px solid #296cf2;
 }
-
+p.outset {border-style: outset;}
 table {
     width: 100%;
 }
