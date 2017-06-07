@@ -523,14 +523,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #296cf2;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #296cf2;
     }
   }
 }
@@ -541,7 +541,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #296cf2;
 }
 
 .posts > .post:last-child {
@@ -573,7 +573,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #296cf2;
 }
 
 footer {
