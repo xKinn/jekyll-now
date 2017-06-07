@@ -51,7 +51,7 @@ svg{
     text-transform: uppercase;
   }
   #base{
-    fill: #2c7af7;
+    fill: #2c2e33;
     // add the mask.
     // aplicar máscara.
     mask: url(#mask);
@@ -59,7 +59,7 @@ svg{
 }
 
 section.intro{
-  background-colour: #3b3f47;
+  background-colour: #2c2e33;
   background-size: cover;
   position: relative;
   width: 100%;
@@ -73,7 +73,7 @@ body {
   background-colour: #2c2e33;
   -webkit-background-size: 100% auto;
   background-size: 100% auto;
-  color: #2c7af7;
+  color: #2c2e33;
   font-family: Helvetica Neue, Helvetica, Open sans, Arial, sans-serif;
   font-weight:lighter;
   letter-spacing:1px;
